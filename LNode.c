@@ -67,7 +67,7 @@ void ShowList(LinkList *L)					//打印整个链表
 
 #include<stdio.h>
 #include<stdlib.h>
-
+//单链表的实现
 typedef int elemtype;
 typedef struct Node								//定义一个结构体
 {
