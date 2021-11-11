@@ -1,3 +1,4 @@
+//自己写的有bug的双链表
 #include<stdio.h>
 #include<stdlib.h>
 
